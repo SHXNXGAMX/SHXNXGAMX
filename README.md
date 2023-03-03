@@ -1,58 +1,55 @@
-<img src='./images/welcome-bar-0.png' alt="Avatar.png">
+![](./GitHub-Banner.png 'Welcome Banner')
 
-**👋  Welcome to my account!**
+# Hi, I'm SHXNXGAMX
+### I am engaged in the development of: desktop applications, bots and rarely backend
 
-**Here you will find my projects, repositories with useful code, links to my social networks and other resources.**
+![]( https://komarev.com/ghpvc/?username=shxnxgamx&label=Profile%20views&color=green&style=for-the-badge "shxnxgamx" )
+![](https://img.shields.io/static/v1?label=Ubuntu&message=LTS&color=orange&style=for-the-badge&logo=ubuntu 'Ubuntu LTS')
+[![](https://img.shields.io/static/v1?label=Discord&message=Server&color=blue&style=for-the-badge&logo=discord)](https://link.com 'Discord invite')
 
-## A little about me 😅
+----------
 
-**I live in Russia🇷🇺.**<br/>
-**I am engaged in the development of *bots🤖*, *servers🌐*, *AI💻* and everything that interests me.**
+## :sunglasses: A little about me
+I am a :ru: Russian developer. :house_with_garden: I live in Novosibirsk.
 
-## **My knowledge**
-### **✅ At the moment I know the following:**
-* **Node.js**
-* TypeScript
-* PHP
-* **Python**
-* Shell Script
-* batch
-* **MongoDB**
-* **MySQL**
-* SQLITE3
-* HTML
+:sweat_smile: Not always active on github.
 
-*A lot of things, but from this I know best: Node.js and Python*
-## **I use** 👾
+I am fond of developing :video_game: games, :computer: PC applications, :scroll: creating python scripts.
 
-### **🗂️ Here are my favorite libraries:**
-* **JavaScript**
-	* **Discord.js**
-	* **React**
-* **Python**
-	* **Rich**
-	* **Discord.py**
+----------
+## :fax: Technologies and languages
+1. Python
+   * PyQT5
+   * Discord.py
+2. JavaScript
+   * Node.js
+   * Discord.js
+   * ESLint
+   * TypeScript
+3. C++
+   * QT5
+   * OpenGL
+   * SFML
+4. SQL
+   * MySQL
+   * Sqlite3
 
-### **🌱 I work in the following applications:**
-* **Aseprite**
-* **IDE:**
-	* Atom
-	* SublimeText
-	* **Visual Studio Code**
+## :bulb: I use
 
-### **🌈 Plugins that I use:**
-* **ESLint**
-* **Prettier**
-* **Husky**
-* **Nodemon**
+* Visual Studio Code
+* SublimeText
+* Aseprite
+* CMake
+* QT5 Creator
+* OS Ubuntu LTS
 
-## My OS
+## :bomb: Other Links
 
-![](https://img.shields.io/static/v1?label=Ubuntu&message=20.04&color=orange&style=for-the-badge&logo=ubuntu)
-![](https://img.shields.io/static/v1?label=Asus&message=Eee+pc&color=lightgrey&style=for-the-badge&logo=asus)
 
-## My contacts 🗂️
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/VhKbN3zdAf)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)]()
+<!-- [![](https://img.shields.io/static/v1?label=DXXTH-PXXXLS&message=VK&color=blue&style=for-the-badge&logo=vk)](https://link.com 'Vk Group') -->
+[![](https://img.shields.io/static/v1?label=DXXTH-PXXXLS&message=Discord&color=blue&style=for-the-badge&logo=discord)](https://discord.gg/Ag6zPdJSsY 'Discord invite')
+<!-- [![](https://img.shields.io/static/v1?label=DXXTH-PXXXLS&message=Telegram&color=blue&style=for-the-badge&logo=telegram)](https://link.com 'Telegram invite') -->
+
+[![](https://img.shields.io/static/v1?label=SHXNXGAMX&message=VK&color=blue&style=for-the-badge&logo=vk)](https://vk.com/dxxth_brxgxr 'Vk user page')
+[![](https://img.shields.io/static/v1?label=SHXNXGAMX&message=YouTube&color=red&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCgMMBTrhNsrjIiu-gIH0nDA 'YouTube channel')
+<!-- [![](https://img.shields.io/static/v1?label=SHXNXGAMX&message=Discord&color=blue&style=for-the-badge&logo=discord)](https://link.com 'Discord invite') -->
