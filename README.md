@@ -1,6 +1,4 @@
 ![](./GitHub-Banner.png 'Welcome Banner')
-
-# Hi, I'm SHXNXGAMX
 ### I am engaged in the development of: desktop applications, bots and rarely backend
 
 ![]( https://komarev.com/ghpvc/?username=shxnxgamx&label=Profile%20views&color=green&style=for-the-badge "shxnxgamx" )
